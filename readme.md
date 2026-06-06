@@ -1,6 +1,6 @@
 # Addition calculator
 
-A calculator that support addition operations with all integers numbers up to 700.
+A calculator that support addition operations with all integers numbers up to 500.
 
 ### Contributing
 
